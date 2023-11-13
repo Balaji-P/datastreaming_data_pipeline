@@ -9,7 +9,7 @@ I used Airflow, PostgreSQL, Kafka, Spark and Cassandra in order to establish a f
 ## Get Started
 
 - Clone the repository
-  - `git clone https://github.com/Balaji-P/Data-Streaming-Project/`
+  - `git clone https://github.com/Balaji-P/datastreaming_data_pipeline/`
 - Go to the project folder
   - `cd Data-Streaming-Project`
 - Build the environment with Docker Compose
